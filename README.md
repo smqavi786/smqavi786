@@ -109,20 +109,21 @@ motto: "Build it, measure it, and report the results honestly."
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qavi303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qavi303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+  <img src="https://komarev.com/ghpvc/?username=qavi303&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/qavi303?tab=followers"><img src="https://img.shields.io/github/followers/qavi303?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb" alt="Followers"/></a>
+  <a href="https://github.com/qavi303?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-I am looking for an **entry-level AI / Generative AI Engineer** role where I can keep building and learning.
+<p align="center">I am looking for an <b>entry-level AI / Generative AI Engineer</b> role where I can keep building and learning.</p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:smqavi786@gmail.com"><img src="https://img.shields.io/badge/EMAIL-smqavi786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/syed-m-qavi-22b5ab275"><img src="https://img.shields.io/badge/LINKEDIN-Syed_Muhammad_Qavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
